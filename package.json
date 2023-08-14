@@ -20,7 +20,6 @@
     "@types/node": "20.4.8",
     "@types/react": "18.2.18",
     "@types/react-dom": "18.2.7",
-    "@types/uniqid": "^5.3.2",
     "autoprefixer": "10.4.14",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.12",
@@ -42,6 +41,8 @@
     "zustand": "^4.4.1"
   },
   "devDependencies": {
+    "@types/uniqid": "^5.3.2",
+    "encoding": "^0.1.13",
     "supabase": "^1.82.6"
   }
 }
